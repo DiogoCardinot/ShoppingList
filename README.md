@@ -1,2 +1,1 @@
-# practice-time-shopping-list
-
+# Practice Time - Shopping List
